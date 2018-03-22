@@ -1,9 +1,6 @@
 HW5 - due Tuesday 4/02 by 11:59 pm
 -----
 
-![](http://www2.stat.duke.edu/~cr173/Sta323_Sp18/homework/imgs/darksky.jpg)
-![](http://www2.stat.duke.edu/~cr173/Sta323_Sp18/homework/imgs/shiny.png)
-
 Dark Sky is an iOS app and website that provides "hyperlocal" weather forecasts. They make their data available to third parties via a web API which we will be using to create a simple shiny app. 
 
 In order to access this API you need an account - if you go to https://darksky.net/dev/ you can sign up to gain access to their API. Once you have registered you will have access to a usage console that includes a unique secret key (the long alphanumeric string at the bottom of the page) you will use this to access the API. You can make up to 1000 API requests per day without incurring any cost, so there is no need to enter any billing information.
