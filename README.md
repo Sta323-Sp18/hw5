@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/5bb58dcb5c7687ad74ee8e464a391a3c/s/master "wercker status")](https://app.wercker.com/project/byKey/5bb58dcb5c7687ad74ee8e464a391a3c)
+
 HW5 - due Tuesday 4/02 by 11:59 pm
 -----
 
